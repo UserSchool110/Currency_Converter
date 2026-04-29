@@ -1,0 +1,18 @@
+[
+  {
+    "date": "15:30:25",
+    "from": "USD",
+    "to": "EUR",
+    "result": "92.50",
+    "amount": 100,
+    "rate": 0.925
+  },
+  {
+    "date": "14:45:12",
+    "from": "RUB",
+    "to": "USD",
+    "result": "11.17",
+    "amount": 1000,
+    "rate": 0.01117
+  }
+]
